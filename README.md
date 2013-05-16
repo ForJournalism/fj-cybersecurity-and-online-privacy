@@ -7,37 +7,34 @@ In our rapidly-changing online world, journalists have a lot more to worry about
 
 * The web: HTTP and SSL/HTTPS
 * Logins and passwords
-* Hands-on tutorial: using a password cracking program
+* *Hands-on tutorial: using a password cracking program*
 * Wifi
-* Hands-on tutorial: wifi eavesdropping and traffic analysis
+* *Hands-on tutorial: wifi eavesdropping and traffic analysis*
 * The human factor
-* Case study: Twitter account hackings
+* **Case study: Twitter account hackings**
 
-2: Protecting secrets online
-  a. E-mail / instant messaging
-  b. Making it better with encryption and alternative programs
-     Hands-on tutorial: PGP/GPG
-     Hands-on tutorial: instant messaging with OTR encryption
+## 2. Protecting secrets online
 
-Case study: ???
+* E-mail / instant messaging
+* Making it better with encryption and alternative programs
+* *Hands-on tutorial: PGP/GPG*
+* *Hands-on tutorial: instant messaging with OTR encryption*
+* **Case study: ???**
 
-3: Anonymity
-  a. Online pseudonyms. "Anonymous."
-  b. Tor and the "Deep Web"
-    Hands-on tutorial: Tor
+## 3. Anonymity
 
-4: Protecting anonymous sources
-  a. Throwaway e-mail addresses, like burner phones.
-  b. More Tor: Hidden services
-    Hands-on tutorial: Running a "hidden website" in Tor
-  c. Data on your computer
-    Hands-on tutorials: disk encryption & deleting data securely
+* Online pseudonyms. "Anonymous."
+* Tor and the "Deep Web"
+* *Hands-on tutorial: Tor*
 
-Case study: Wikileaks, Strongbox/DeadDrop
+## 4. Protecting anonymous sources
+* Throwaway e-mail addresses, like burner phones.
+* More Tor: Hidden services
+* *Hands-on tutorial: Running a "hidden website" in Tor*
+* Data on your computer
+* *Hands-on tutorials: disk encryption & deleting data securely*
+* **Case study: Wikileaks, Strongbox/DeadDrop**
 
-5: Other tools, techniques, and things to watch out for
-  a. Steganography
-  b. Keyloggers
-  ...
-
-Chapter/topic combinations not yet final. (May be adjusted for appropriate lesson length.) One or more case studies to come.
+## 5. Other tools, techniques, and things to watch out for
+* Steganography
+* Keyloggers
